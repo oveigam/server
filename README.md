@@ -16,4 +16,4 @@ Start the server
 npm start
 ```
 
-Use your ip and port 8085 to access the webpage. A list with all abailable files will be generated. (You might need to restart the server if you change to the files)
+Use your ip and port 8085 (remember to open it on your router if you want to access outside of your network) to access the webpage. A list with all abailable files will be generated. (You might need to restart the server if you change to the files)
